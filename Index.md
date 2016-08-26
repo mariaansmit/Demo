@@ -1,3 +1,3 @@
 #Welcome to my website
 
-created by Mariaan Smit, 26, Aug, 2016
+-created by Mariaan Smit, 26, Aug, 2016
